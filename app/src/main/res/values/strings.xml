@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Master Project</string>
+
+    <string name="login_email">email Id</string>
+    <string name="login_password">password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_title">Login</string>
+    <string name="login_donot_have_account">Don\'t have an account ?</string>
+    <string name="login_forgot_password">Forgot Password ?</string>
+    <string name="login_click_here">Click here</string>
+    <string name="logo_icon">Logo Icon</string>
+
+
+    <string name="registration_registration">Registration</string>
+    <string name="registration_already_have_an_account">Already have an account ?</string>
+    <string name="registration_fullname">full name</string>
+    <string name="registration_dob">date of birth</string>
+    <string name="registration_confirm_password">confirm password</string>
+    <string name="registration_mobile">mobile number</string>
+    <string name="registration_profile_img">Profile Image</string>
+    <string name="registration_sign_up">SIGN UP</string>
+
+    <string name="forgot_email">email Id</string>
+    <string name="forgot_btn_send_verification_code">Send verification code</string>
+    <string name="forgot_message">Please enter your registered mail id. We will send you a verifiaction code or link to set a new password for your account.</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="forgot_password_title">Forgot Password</string>
+
+    <string name="chng_passwd_old_pass">Old password</string>
+    <string name="chng_passwd_new_pass">New password</string>
+    <string name="chng_passwd_confirm_pass">Confirm password</string>
+    <string name="chng_passwd_btn_update_pass">Update password</string>
+    <string name="chng_passwd_chng_password">Change Password</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="feedback_feedback">Feedback</string>
+
+    <string name="contactus_contactus">Contact us</string>
+
+    <string name="edit_profile_update">Save</string>
+    <string name="edit_profile_edit_profile">Edit Profile</string>
+
+    <string name="sichLogin">SinchLogin</string>
+
+    <string name="home">Home</string>
+    <string name="home_search">search…</string>
+    <string name="login_login_btn">Login</string>
+    <string name="login_fb_login">Facebook Login</string>
+    <string name="login_gp_login">Google Plus Login</string>
+    <string name="login_tw_login">Twitter Login</string>
+    <string name="login_ln_login">LikedIn login</string>
+
+    <string name="category_icon">Category Icon</string>
+    <string name="change_password">Change password</string>
+    <string name="about_us">About Us</string>
+    <string name="category">Category</string>
+    <string name="defaulttext">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+    <string name="select_country">choose country</string>
+    <string name="select_category">choose category</string>
+    <string name="select_sub_category">choose sub-category</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="skip">Skip</string>
+    <string name="write_here">write here…</string>
+    <string name="attach_pin">attach pin</string>
+    <string name="recording_00_00">Recording… 00:00</string>
+
+    <string-array name="countries">
+        <item>India</item>
+        <item>Kuwait</item>
+        <item>America</item>
+        <item>Katar</item>
+        <item>Saiudi</item>
+        <item>Paris</item>
+    </string-array>
+    <string-array name="categories">
+        <item>Doctor</item>
+        <item>Engineer</item>
+        <item>Psycologist</item>
+        <item>Builder</item>
+        <item>Designer</item>
+        <item>Developer</item>
+    </string-array>
+    <string-array name="sub_categories">
+        <item>Dantist</item>
+        <item>Civil Engineer</item>
+        <item>Child Psycologist</item>
+        <item>Builder</item>
+        <item>Mobile App Designer</item>
+        <item>Mobile App Developer</item>
+    </string-array>
+</resources>
